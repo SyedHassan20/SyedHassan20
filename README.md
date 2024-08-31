@@ -18,11 +18,9 @@
 
 <br>
 
-- :computer: Studying Data Science and Molecular Biology 
-- 🔬 Passionate about Oncology and Drug development
+- :computer: Studying Data Science and Biochemistry
+- 🔬 Passionate about Cancer Biology, Proteomics and Regenerative Medicine
 - ⏲️ Currently learning NLP and ML for biotech
-- 🤝 I’m currently open for an Intern or a new job opportunity, [Resume](https://docs.google.com/document/d/1QFNoIPMwCVr9U3BllVF7otTfFhfF-OVNBD3nvlIrFAc/edit?usp=sharing)
-
 
 <br><br>
 
