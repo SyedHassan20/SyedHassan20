@@ -54,10 +54,10 @@
 
 - **Machine Learning**:
 
-    ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
-)
-    ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)   
-	
+    ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+    ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F40?style=for-the-badge&logo=tensorflow&logoColor=white)
+    ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
 <br>
 	
 - **Libraries**:
