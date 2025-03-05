@@ -7,13 +7,13 @@
 Hi there 👋
 I'm a biologist turned bioinformatician with a passion for efficient, replicable, and clear scientific solutions. I specialize in simulating biological concepts and statistical analyses of biological datasets.
 
-🔭 I’m a 4th-year Undergrad in Biochemistry at Minerva University.
-🌱 I’m currently learning Causal Inference, Simulation Modeling, and Machine Learninng.
-📓 I am proficient in Python (+ Django), R (+ RShiny), Mathematica, and Web Development (HTML, CSS, JS).
-🤔 I’m looking to learn more about protein modeling, multi-omics data analysis, and how computational tools can drive discoveries in structural biology and drug development.
-📫 How to reach me: hassanbukhari605@gmail.com
-😄 Pronouns: He/Him/His
-⚡ Fun fact: I have lived in 6 countries over 4 years of undergrad, participating in diverse labs every single semester.
+- 🔭 I’m a 4th-year Undergrad in Biochemistry at Minerva University.
+- 🌱 I’m currently learning Causal Inference, Simulation Modeling, and Machine Learninng.
+- 📓 I am proficient in Python (+ Django), R (+ RShiny), Mathematica, and Web Development (HTML, CSS, JS).
+- 🤔 I’m looking to learn more about protein modeling, multi-omics data analysis, and how computational tools can drive discoveries in structural biology and drug development.
+- 📫 How to reach me: hassanbukhari605@gmail.com
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I have lived in 6 countries over 4 years of undergrad, participating in diverse labs every single semester.
 
 **Latest Accomplishments:**
 
