@@ -21,23 +21,6 @@ I'm a biologist turned bioinformatician with a passion for efficient, replicable
 - **AntiCLUST** – An automated tool for balanced batch assignment in high-throughput sequencing, minimizing batch effects for unbiased multi-omics and ribosome profiling analysis.
 <br><br>
 
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
 
 <br>
 
