@@ -4,7 +4,7 @@
 <br>
 
 
-Hi there 👋
+Hi there 👋 <be>
 I'm a biologist turned bioinformatician with a passion for efficient, replicable, and clear scientific solutions. I specialize in simulating biological concepts and statistical analyses of biological datasets.
 
 - 🔭 I’m a 4th-year Undergrad in Biochemistry at Minerva University.
