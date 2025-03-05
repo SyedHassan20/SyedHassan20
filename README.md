@@ -10,7 +10,7 @@ I'm a biologist turned bioinformatician with a passion for efficient, replicable
 - 🔭 I’m a 4th-year Undergrad in Biochemistry at Minerva University.
 - Currently working as a Research Assistant at SciCom Lab, Minerva University, and Bioinformatics Intern at UCSF Sirota Lab.
 - 🌱 I’m currently learning Causal Inference, Simulation Modeling, and Machine learning.
-- 📓 I am proficient in Python (+ Django), R (+ RShiny), Mathematica, and Web Development (HTML, CSS, JS).
+- 📓 I am proficient in Python (+ Django), R (+ RShiny), Mathematica, and ML (Tensorflow, Keras, PyTorch, Sckit-learn).
 - 🤔 I’m looking to learn more about protein modeling, multi-omics data analysis, and how computational tools can drive discoveries in structural biology and drug development.
 - 📫 How to reach me: hassanbukhari605@gmail.com
 - 😄 Pronouns: He/Him/His
