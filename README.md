@@ -22,8 +22,5 @@ I'm a biologist turned bioinformatician with a passion for efficient, replicable
 - **antiCLUST** – An automated tool for balanced batch assignment in high-throughput sequencing, minimizing batch effects for unbiased multi-omics and ribosome profiling analysis.
 <br><br>
 
-
-<br>
-
 <!--
 **SyedHassan20/SyedHassan20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
