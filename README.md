@@ -19,7 +19,7 @@ I'm a biologist turned bioinformatician with a passion for efficient, replicable
 **Latest Accomplishments:**
 
 - **CGA** - A Chemical-Gene Atlas for visualizing gene-chemical interactions with network plots for lethal genes in pre and post-natal diseases.
-- **AntiCLUST** – An automated tool for balanced batch assignment in high-throughput sequencing, minimizing batch effects for unbiased multi-omics and ribosome profiling analysis.
+- **antiCLUST** – An automated tool for balanced batch assignment in high-throughput sequencing, minimizing batch effects for unbiased multi-omics and ribosome profiling analysis.
 <br><br>
 
 
