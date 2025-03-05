@@ -6,9 +6,33 @@
 
 <br>
 
-- :computer: Studying Data Science and Biochemistry
-- 🔬 Passionate about Cancer Biology, Proteomics and Regenerative Medicine
-- ⏲️ Currently learning NLP and ML for biotech
+Hi there 👋
+I'm Syed Hassan Bukhari – a computational biologist who bridges the gap between data science and the lab bench. Currently, I'm diving deep into Natural Sciences (Biochemistry) at Minerva University, with a global perspective honed through studies across five countries.
+
+🔭 What I Do:
+I leverage Python and R to unravel complex biological data, from protein modeling to molecular docking, while continuously refining my wet-lab techniques.
+
+🌱 Current Focus:
+Exploring innovative bioinformatics workflows and enhancing experimental protocols to drive precision in biological research.
+
+📓 Expertise:
+
+Computational: Python, R, molecular visualization
+Experimental: Protein purification, cell sorting, and advanced biosensing techniques
+💬 Ask Me About:
+Gene-chemical interactions, protein structure insights, or merging data science with experimental biology.
+
+📫 Contact:
+hassanbukhari@uni.minerva.edu
+😄 Pronouns: He/Him/His
+⚡ Fun Fact: My journey has taken me across continents, each lab and lecture fueling my passion for pushing scientific boundaries.
+
+Latest Wins:
+
+Developed an interactive R Shiny app at UCSF to decode gene-chemical networks.
+Enhanced protein production protocols during my internship at Discovery Biotherapeutics (Bristol Myers Squibb).
+Advanced nanoparticle research at National Taiwan University.
+
 
 <br><br>
 
