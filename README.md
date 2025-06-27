@@ -7,8 +7,8 @@
 Hi there 👋 <be>
 I'm a biologist turned bioinformatician with a passion for efficient, replicable, and clear scientific solutions. I specialize in simulating biological concepts and statistical analyses of biological datasets.
 
-- 🔭 I’m a 4th-year Undergrad studying Biochemistry at Minerva University.
-- Currently working as a Bioinformatics Intern at Sirota Lab, UCSF and a Research Assistant at SciCom Lab, Minerva University.
+- 🔭 I’m a Graduate in Biochemistry from Minerva University.
+- Currently working as a Bioinformatics Researcher at Sirota Lab, UCSF and a Research Assistant at SciCom Lab, Minerva University.
 - 🌱 I’m currently working on Single-Cell Transcriptomics while learning Causal Inference, Simulation Modeling, and Machine Learning.
 - 📓 I am proficient in Python (+ React & Django), R (+ RShiny), Mathematica, and ML (Tensorflow, Keras, PyTorch, Sckit-learn).
 - 🤔 I’m learning more about protein modeling, multi-omics data analysis, and how computational tools can drive discoveries in structural biology and drug development.
